@@ -1,5 +1,5 @@
-José Guilherme Colatino Pessoa
-Pedro Henrique Campos de Andrade
+* José Guilherme Colatino Pessoa
+* Pedro Henrique Campos de Andrade
 
 # Projeto de Web Scraping de Dados do IMDb
 
