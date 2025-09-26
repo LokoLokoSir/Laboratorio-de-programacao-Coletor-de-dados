@@ -1,3 +1,6 @@
+José Guilherme Colatino Pessoa
+Pedro Henrique Campos de Andrade
+
 # Projeto de Web Scraping de Dados do IMDb
 
 ## 1. What (O que é?)
