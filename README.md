@@ -2,7 +2,7 @@
 
 ## 1. What (O que é?)
 
-Um projeto em Python para coletar automaticamente dados públicos do site IMDb, usando web scraping com Selenium ou BeautifulSoup, tratando os dados com Pandas e exportando-os para um arquivo `.cs`.
+Um projeto em Python para coletar automaticamente dados públicos do site IMDb, usando web scraping com Selenium ou BeautifulSoup, tratando os dados com Pandas e exportando-os para um arquivo `.csv`.
 
 ## 2. Why (Por que?)
 
