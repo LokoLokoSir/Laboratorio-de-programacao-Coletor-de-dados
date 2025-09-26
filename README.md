@@ -2,7 +2,7 @@
 
 ## 1. What (O que é?)
 
-Um projeto em *Python para coletar automaticamente dados públicos do site IMDb, usando web scraping com Selenium ou BeautifulSoup, tratando os dados com Pandas e exportando-os para um arquivo ".csv".
+Um projeto em Python para coletar automaticamente dados públicos do site IMDb, usando web scraping com Selenium ou BeautifulSoup, tratando os dados com Pandas e exportando-os para um arquivo `.cs`.
 
 ## 2. Why (Por que?)
 
@@ -16,7 +16,7 @@ Praticar automação de coleta de dados com Python, manipulação com Pandas e o
 ## 4. Where (Onde será usado?)
 
 * O script pode ser executado em Windows e Linux.
-* Os resultados ficam disponíveis em um arquivo ".csv" que pode ser usado em qualquer planilha ou software de análise.
+* Os resultados ficam disponíveis em um arquivo `.csv` que pode ser usado em qualquer planilha ou software de análise.
 
 ## 5. When (Quando usar?)
 
@@ -28,4 +28,4 @@ Praticar automação de coleta de dados com Python, manipulação com Pandas e o
 1.  O usuário clona o repositório no GitHub.
 2.  Instala as dependências (`pip install -r requirements.txt`).
 3.  Executa o script principal (`python main.py`).
-4.  O programa acessa o site IMDb, coleta os dados, organiza com Pandas e salva no arquivo "movies.csv".
+4.  O programa acessa o site IMDb, coleta os dados, organiza com Pandas e salva no arquivo `movies.csv`.
