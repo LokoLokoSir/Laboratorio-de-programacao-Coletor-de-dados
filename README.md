@@ -15,7 +15,7 @@ Praticar automação de coleta de dados com Python, manipulação com Pandas e o
 
 ## 4. Where (Onde será usado?)
 
-* O script pode ser executado em Windows e Linux.
+* O script pode ser executado em **Windows** e **Linux**.
 * Os resultados ficam disponíveis em um arquivo `.csv` que pode ser usado em qualquer planilha ou software de análise.
 
 ## 5. When (Quando usar?)
