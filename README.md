@@ -1,37 +1,31 @@
 # Projeto de Web Scraping de Dados do IMDb
 
-## O que é? (What)
+## 1. What (O que é?)
 
-Este é um projeto em Python projetado para coletar automaticamente dados públicos do site IMDb (Internet Movie Database).
+Um projeto em Python para coletar automaticamente dados públicos do site IMDb, usando web scraping com Selenium ou BeautifulSoup, tratando os dados com Pandas e exportando-os para um arquivo `.csv`.
 
-A coleta de dados (web scraping) é feita utilizando as bibliotecas Selenium ou BeautifulSoup. Os dados brutos são posteriormente processados e tratados com a biblioteca Pandas e, por fim, exportados para um arquivo no formato ".csv".
+## 2. Why (Por que?)
 
-## Por que? (Why)
+Praticar automação de coleta de dados com Python, manipulação com Pandas e organização em um formato de fácil consulta. Esse tipo de solução pode ser usado em projetos de análise de dados, relatórios ou dashboards.
 
-O objetivo principal deste projeto é **praticar** e demonstrar a automação da coleta de dados com Python, a manipulação eficiente de grandes volumes de informações com Pandas e a organização dos resultados em um formato padronizado e de fácil consulta.
+## 3. Who (Quem participa?)
 
-Este tipo de solução é fundamental e pode ser utilizado como base em diversos projetos de **Análise de Dados**, geração de **Relatórios** automáticos ou criação de **Dashboards** dinâmicos.
+* Desenvolvedores iniciantes ou intermediários que querem aprender scraping, automação e análise de dados.
+* Usuários que desejam consultar listas de filmes atualizadas.
 
-## Quem participa? (Who)
+## 4. Where (Onde será usado?)
 
-* Desenvolvedores iniciantes ou intermediários que buscam aprender e aprimorar suas habilidades em web scraping, automação e análise de dados.
-* Usuários em geral que desejam ter acesso a listas de filmes atualizadas e dados estruturados para consulta ou estudo.
+* O script pode ser executado em **Windows** e **Linux**.
+* Os resultados ficam disponíveis em um arquivo `.csv` que pode ser usado em qualquer planilha ou software de análise.
 
-## Onde será usado? (Where)
+## 5. When (Quando usar?)
 
-* O script foi desenvolvido para ser executado em ambientes **Windows** e **Linux**.
-* Os dados coletados são disponibilizados em um arquivo "movies.csv". Este arquivo pode ser facilmente importado e utilizado em qualquer software de planilhas (como Excel, Google Sheets) ou plataforma de análise de dados.
+* Sempre que for necessário coletar informações públicas de forma automatizada.
+* Ideal para consultas rápidas sobre tendências de filmes ou estudos de dados culturais.
 
-## Quando usar? (When)
+## 6. How (Como funciona?)
 
-* Sempre que houver a necessidade de coletar informações públicas de uma fonte web de maneira automatizada e estruturada.
-* Ideal para consultas rápidas sobre tendências de filmes, rankings, ou para **estudos de dados culturais e da indústria cinematográfica**.
-
-## Como funciona? (How)
-
-Siga os passos abaixo para executar o projeto:
-
-1.  Clone o repositório para a sua máquina local:
-2.  Acesse a pasta do projeto e instale todas as bibliotecas necessárias:
-3.  Execute o script principal do projeto:
-4.  O programa irá acessar o site IMDb, coletar os dados, organizá-los utilizando o Pandas e, por fim, salvará o resultado no arquivo "movies.csv" no diretório raiz do projeto.
+1.  O usuário clona o repositório no GitHub.
+2.  Instala as dependências (`pip install -r requirements.txt`).
+3.  Executa o script principal (`python main.py`).
+4.  O programa acessa o site IMDb, coleta os dados, organiza com Pandas e salva no arquivo `movies.csv`.
